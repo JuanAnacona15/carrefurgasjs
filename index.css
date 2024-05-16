@@ -1,0 +1,17 @@
+.contForm{
+    position: relative;
+    width: 60%;
+    padding: 20px;
+    margin: auto;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.contForm::before{
+    content: "";
+    position: absolute;
+    background-image: conic-gradient(rgb(0, 66, 233) 20deg transparent 120deg );
+}
+
+.col-mb-4{
+    margin: auto;
+}
