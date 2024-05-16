@@ -1,4 +1,4 @@
-#Carrefurgas
+# Carrefurgas
 
 El programa "Carrefurgas" es una solucion computacional para calcular 
 la nomina de los empleados de la empresa "Carrefurgas"
@@ -9,11 +9,11 @@ y en base a eso se hacen los calculos que finalmente dan como resultado su salar
 Tanto los datos del empleado como los resultados de los calculos se almacenan en una base 
 de datos con sql
 
-##Tabla de Contenidos
+## Tabla de Contenidos
 
  - [Instalacion](#Instalacion)
 
-##Instalacion
+## Instalacion
 
  - Clone el repositorio o descargue el codigo
  - Instale la libreria "mysql"
